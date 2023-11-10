@@ -1,0 +1,15 @@
+### training data ###
+data_single.csv
+
+### data processed ###
+nlp_cn_data_single.csv
+
+### The model file ###
+best_model.pkl
+
+### python environment ###
+venv/
+
+### pycharm project files ###
+.idea/
+
